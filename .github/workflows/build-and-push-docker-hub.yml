@@ -1,4 +1,4 @@
-name: Build, Push, Ssh, Pull, Down, Up with DockerHub
+name: Build, Push, Ssh, Pull, Down, Up with DockerHub version 2
 
 on:
   push:
